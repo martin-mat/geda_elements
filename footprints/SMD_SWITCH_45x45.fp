@@ -1,10 +1,10 @@
 
-Element["" "SMD_SWITCH_52x52" "" "" 10.3000mm 9.8000mm 0.0000 0.0000 0 100 ""]
+Element["" "SMD_SWITCH_45x45" "" "" 10.3000mm 9.8000mm 0.0000 0.0000 0 100 ""]
 (
-	Pad[2.8648mm 1.9500mm 3.1645mm 1.9500mm 28.00mil 20.00mil 34.00mil "" "2" "square,edge2"]
-	Pad[-3.1347mm 1.9500mm -2.8349mm 1.9500mm 28.00mil 20.00mil 34.00mil "" "2" "square"]
-	Pad[2.8648mm -1.7482mm 3.1645mm -1.7482mm 28.00mil 20.00mil 34.00mil "" "1" "square,edge2"]
-	Pad[-3.1347mm -1.7482mm -2.8349mm -1.7482mm 28.00mil 20.00mil 34.00mil "" "1" "square"]
+	Pad[3.4mm 1.500mm 3.1mm 1.500mm 44.00mil 20.00mil 52.00mil "" "2" "square,edge2"]
+	Pad[-3.4mm 1.500mm -3.1mm 1.500mm 44.00mil 20.00mil 52.00mil "" "2" "square"]
+	Pad[3.4mm -1.5mm 3.1mm -1.5mm 44.00mil 20.00mil 52.00mil "" "1" "square,edge2"]
+	Pad[-3.4mm -1.5mm -3.1mm -1.5mm 44.00mil 20.00mil 52.00mil "" "1" "square"]
 	ElementLine [3.0629mm -1.1183mm 3.0629mm 1.2693mm 10.00mil]
 	ElementLine [-2.9823mm -1.0929mm -2.9823mm 1.2947mm 10.00mil]
 	ElementLine [-2.2000mm -2.2000mm -2.0000mm -2.4000mm 10.00mil]
